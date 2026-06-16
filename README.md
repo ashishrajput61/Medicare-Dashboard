@@ -1,4 +1,8 @@
 # 📊 Medicare Dashboard
+<img width="1067" height="596" alt="Screenshot 2026-06-15 142133" src="https://github.com/user-attachments/assets/5ad1da47-5eac-4202-b87d-450e6143f8da" />
+<img width="1063" height="597" alt="Screenshot 2026-06-15 142229" src="https://github.com/user-attachments/assets/fb156a90-b26d-46e3-8cfc-e75df5dc050e" />
+<img width="1062" height="597" alt="Screenshot 2026-06-15 142255" src="https://github.com/user-attachments/assets/758c2e2c-a5ba-4730-8882-622834c09b08" />
+<img width="1062" height="600" alt="Screenshot 2026-06-15 142323" src="https://github.com/user-attachments/assets/b69ce297-f324-4057-9f5f-516d7bbfbe12" />
 
 A comprehensive Power BI dashboard designed to analyze, visualize, and gain actionable insights from Medicare healthcare data. This interactive dashboard provides key metrics, trends, and performance indicators for healthcare analytics and decision-making.
 
@@ -237,8 +241,3 @@ If you find this dashboard useful, please consider:
 **Last Updated:** June 2026
 
 ---
-
-*This Medicare Dashboard is a data visualization project created to demonstrate healthcare analytics capabilities using Power BI.*<img width="1062" height="600" alt="Screenshot 2026-06-15 142323" src="https://github.com/user-attachments/assets/a2570c1c-9e65-4fa2-8cf5-3ee9dd66052d" />
-<img width="1062" height="597" alt="Screenshot 2026-06-15 142255" src="https://github.com/user-attachments/assets/a8fed702-ab18-4140-be51-5d44ce9776fc" />
-<img width="1063" height="597" alt="Screenshot 2026-06-15 142229" src="https://github.com/user-attachments/assets/514fa762-86d3-4937-9539-a89dde50195f" />
-<img width="1067" height="596" alt="Screenshot 2026-06-15 142133" src="https://github.com/user-attachments/assets/fbada442-4e6c-4558-9900-c6a23498977c" />
